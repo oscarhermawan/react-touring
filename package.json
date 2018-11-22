@@ -1,0 +1,26 @@
+{
+  "name": "react-touring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "dev": "next",
+     "build": "next build",
+     "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarhermawan/react-touring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarhermawan/react-touring/issues"
+  },
+  "homepage": "https://github.com/oscarhermawan/react-touring#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
