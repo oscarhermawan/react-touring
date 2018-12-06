@@ -355,7 +355,7 @@ const Index = () => (
           </div>
           <div className="row">
             <div className="col-lg-12">
-              <form id="contactForm" name="sentMessage" novalidate="novalidate">
+              <form id="contactForm" name="sentMessage" noValidate="novalidate">
                 <div className="row">
                   <div className="col-md-6">
                     <div className="form-group">
@@ -428,7 +428,7 @@ const Index = () => (
         </div>
       </footer>
 
-      <div className="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+      <div className="portfolio-modal modal fade" id="portfolioModal1" tabIndex="-1" role="dialog" aria-hidden="true">
         <div className="modal-dialog">
           <div className="modal-content">
             <div className="close-modal" data-dismiss="modal">
@@ -460,7 +460,7 @@ const Index = () => (
         </div>
       </div>
 
-      <div className="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+      <div className="portfolio-modal modal fade" id="portfolioModal2" tabIndex="-1" role="dialog" aria-hidden="true">
         <div className="modal-dialog">
           <div className="modal-content">
             <div className="close-modal" data-dismiss="modal">
@@ -492,7 +492,7 @@ const Index = () => (
         </div>
       </div>
 
-      <div className="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+      <div className="portfolio-modal modal fade" id="portfolioModal3" tabIndex="-1" role="dialog" aria-hidden="true">
         <div className="modal-dialog">
           <div className="modal-content">
             <div className="close-modal" data-dismiss="modal">
@@ -525,7 +525,7 @@ const Index = () => (
       </div>
 
 
-      <div className="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+      <div className="portfolio-modal modal fade" id="portfolioModal4" tabIndex="-1" role="dialog" aria-hidden="true">
         <div className="modal-dialog">
           <div className="modal-content">
             <div className="close-modal" data-dismiss="modal">
@@ -558,7 +558,7 @@ const Index = () => (
       </div>
 
 
-      <div className="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+      <div className="portfolio-modal modal fade" id="portfolioModal5" tabIndex="-1" role="dialog" aria-hidden="true">
         <div className="modal-dialog">
           <div className="modal-content">
             <div className="close-modal" data-dismiss="modal">
@@ -590,7 +590,7 @@ const Index = () => (
         </div>
       </div>
 
-      <div className="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+      <div className="portfolio-modal modal fade" id="portfolioModal6" tabIndex="-1" role="dialog" aria-hidden="true">
         <div className="modal-dialog">
           <div className="modal-content">
             <div className="close-modal" data-dismiss="modal">
@@ -623,7 +623,8 @@ const Index = () => (
         </div>
       </div>
 
-      <script src="vendor/jquery/jquery.min.js"></script>
+      {
+      /*<script src="vendor/jquery/jquery.min.js"></script>
       <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
       <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
@@ -632,6 +633,11 @@ const Index = () => (
       <script src="js/contact_me.js"></script>
 
       <script src="js/agency.min.js"></script>
+      */}
+
+      <script src="/static/jquery/jquery-3.2.1.slim.min.js"></script>
+      <script src="/static/jquery/popper.min.js"></script>
+      <script src="/static/jquery/bootstrap.min.js"></script>
     </Layout>
 )
 

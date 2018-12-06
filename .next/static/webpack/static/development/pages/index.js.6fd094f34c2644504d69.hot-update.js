@@ -1600,7 +1600,7 @@ var Index = function Index() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("form", {
     id: "contactForm",
     name: "sentMessage",
-    novalidate: "novalidate",
+    noValidate: "novalidate",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 358
@@ -1916,7 +1916,7 @@ var Index = function Index() {
   }, "Terms of Use"))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal1",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -2061,7 +2061,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal2",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -2206,7 +2206,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal3",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -2351,7 +2351,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal4",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -2496,7 +2496,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal5",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -2641,7 +2641,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal6",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -2852,4 +2852,4 @@ var Index = function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.11a28da5604b2a7e0fe5.hot-update.js.map
+//# sourceMappingURL=index.js.6fd094f34c2644504d69.hot-update.js.map

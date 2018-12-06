@@ -13175,7 +13175,7 @@ var Index = function Index() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("form", {
     id: "contactForm",
     name: "sentMessage",
-    novalidate: "novalidate",
+    noValidate: "novalidate",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 358
@@ -13491,7 +13491,7 @@ var Index = function Index() {
   }, "Terms of Use"))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal1",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -13636,7 +13636,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal2",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -13781,7 +13781,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal3",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -13926,7 +13926,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal4",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -14071,7 +14071,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal5",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -14216,7 +14216,7 @@ var Index = function Index() {
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal6",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
@@ -14359,45 +14359,24 @@ var Index = function Index() {
     },
     __self: this
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "vendor/jquery/jquery.min.js",
+    src: "/static/jquery/jquery-3.2.1.slim.min.js",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 626
+      lineNumber: 638
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "vendor/bootstrap/js/bootstrap.bundle.min.js",
+    src: "/static/jquery/popper.min.js",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 627
+      lineNumber: 639
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "vendor/jquery-easing/jquery.easing.min.js",
+    src: "/static/jquery/bootstrap.min.js",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 629
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "js/jqBootstrapValidation.js",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 631
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "js/contact_me.js",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 632
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "js/agency.min.js",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 634
+      lineNumber: 640
     },
     __self: this
   }));

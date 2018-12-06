@@ -26,39 +26,39 @@ var Index = function Index() {
       lineNumber: 5
     },
     __self: this
-  }, "ada", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", {
     className: "masthead",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
+      lineNumber: 6
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 7
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "intro-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
+      lineNumber: 8
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "intro-lead-in",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
+      lineNumber: 9
     },
     __self: this
   }, "Welcome To Our Studio!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "intro-heading text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
+      lineNumber: 10
     },
     __self: this
   }, "It's Nice To Meet You"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -66,182 +66,182 @@ var Index = function Index() {
     href: "#services",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 11
     },
     __self: this
   }, "Tell Me More")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "services",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 16
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 17
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 18
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-12 text-center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 19
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "section-heading text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 20
     },
     __self: this
   }, "Services"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "section-subheading text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 21
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row text-center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 24
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 25
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "fa-stack fa-4x",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 26
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-circle fa-stack-2x text-primary",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 27
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-shopping-cart fa-stack-1x fa-inverse",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 28
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "service-heading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 30
     },
     __self: this
   }, "E-Commerce"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 31
     },
     __self: this
   }, "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 33
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "fa-stack fa-4x",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 34
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-circle fa-stack-2x text-primary",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 35
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-laptop fa-stack-1x fa-inverse",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 36
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "service-heading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39
+      lineNumber: 38
     },
     __self: this
   }, "Responsive Design"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 39
     },
     __self: this
   }, "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 41
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "fa-stack fa-4x",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 42
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-circle fa-stack-2x text-primary",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 43
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-lock fa-stack-1x fa-inverse",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 44
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "service-heading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 46
     },
     __self: this
   }, "Web Security"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 47
     },
     __self: this
   }, "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
@@ -249,56 +249,56 @@ var Index = function Index() {
     id: "portfolio",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 53
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55
+      lineNumber: 54
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 55
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-12 text-center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
+      lineNumber: 56
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "section-heading text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 57
     },
     __self: this
   }, "Portfolio"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "section-subheading text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 58
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62
+      lineNumber: 61
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4 col-sm-6 portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 62
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -307,28 +307,28 @@ var Index = function Index() {
     href: "#portfolioModal1",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 64
+      lineNumber: 63
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 65
+      lineNumber: 64
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66
+      lineNumber: 65
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-plus fa-3x",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
+      lineNumber: 66
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -337,34 +337,34 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70
+      lineNumber: 69
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-caption",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 72
+      lineNumber: 71
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 73
+      lineNumber: 72
     },
     __self: this
   }, "Threads"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 74
+      lineNumber: 73
     },
     __self: this
   }, "Illustration"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4 col-sm-6 portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 77
+      lineNumber: 76
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -373,28 +373,28 @@ var Index = function Index() {
     href: "#portfolioModal2",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 78
+      lineNumber: 77
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 79
+      lineNumber: 78
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 80
+      lineNumber: 79
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-plus fa-3x",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 81
+      lineNumber: 80
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -403,34 +403,34 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 84
+      lineNumber: 83
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-caption",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 86
+      lineNumber: 85
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87
+      lineNumber: 86
     },
     __self: this
   }, "Explore"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 88
+      lineNumber: 87
     },
     __self: this
   }, "Graphic Design"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4 col-sm-6 portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 91
+      lineNumber: 90
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -439,28 +439,28 @@ var Index = function Index() {
     href: "#portfolioModal3",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 92
+      lineNumber: 91
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 93
+      lineNumber: 92
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 94
+      lineNumber: 93
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-plus fa-3x",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95
+      lineNumber: 94
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -469,34 +469,34 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 98
+      lineNumber: 97
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-caption",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 100
+      lineNumber: 99
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 101
+      lineNumber: 100
     },
     __self: this
   }, "Finish"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 102
+      lineNumber: 101
     },
     __self: this
   }, "Identity"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4 col-sm-6 portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105
+      lineNumber: 104
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -505,28 +505,28 @@ var Index = function Index() {
     href: "#portfolioModal4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 106
+      lineNumber: 105
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 107
+      lineNumber: 106
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 108
+      lineNumber: 107
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-plus fa-3x",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 109
+      lineNumber: 108
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -535,34 +535,34 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112
+      lineNumber: 111
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-caption",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 114
+      lineNumber: 113
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115
+      lineNumber: 114
     },
     __self: this
   }, "Lines"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 116
+      lineNumber: 115
     },
     __self: this
   }, "Branding"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4 col-sm-6 portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 119
+      lineNumber: 118
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -571,28 +571,28 @@ var Index = function Index() {
     href: "#portfolioModal5",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 120
+      lineNumber: 119
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 121
+      lineNumber: 120
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 122
+      lineNumber: 121
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-plus fa-3x",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 123
+      lineNumber: 122
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -601,34 +601,34 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 126
+      lineNumber: 125
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-caption",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128
+      lineNumber: 127
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 129
+      lineNumber: 128
     },
     __self: this
   }, "Southwest"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 130
+      lineNumber: 129
     },
     __self: this
   }, "Website Design"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4 col-sm-6 portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 133
+      lineNumber: 132
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -637,28 +637,28 @@ var Index = function Index() {
     href: "#portfolioModal6",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 134
+      lineNumber: 133
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 135
+      lineNumber: 134
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-hover-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 136
+      lineNumber: 135
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-plus fa-3x",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 137
+      lineNumber: 136
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -667,103 +667,103 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 140
+      lineNumber: 139
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-caption",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 142
+      lineNumber: 141
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 143
+      lineNumber: 142
     },
     __self: this
   }, "Window"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 144
+      lineNumber: 143
     },
     __self: this
   }, "Photography")))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "about",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 151
+      lineNumber: 150
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 152
+      lineNumber: 151
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 153
+      lineNumber: 152
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-12 text-center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 154
+      lineNumber: 153
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "section-heading text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 155
+      lineNumber: 154
     },
     __self: this
   }, "About"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "section-subheading text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 156
+      lineNumber: 155
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 159
+      lineNumber: 158
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-12",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 160
+      lineNumber: 159
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "timeline",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 161
+      lineNumber: 160
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 162
+      lineNumber: 161
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-image",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 163
+      lineNumber: 162
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -772,62 +772,62 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 164
+      lineNumber: 163
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-panel",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 166
+      lineNumber: 165
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-heading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 167
+      lineNumber: 166
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 168
+      lineNumber: 167
     },
     __self: this
   }, "2009-2011"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "subheading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 169
+      lineNumber: 168
     },
     __self: this
   }, "Our Humble Beginnings")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 171
+      lineNumber: 170
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 172
+      lineNumber: 171
     },
     __self: this
   }, "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "timeline-inverted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 176
+      lineNumber: 175
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-image",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 177
+      lineNumber: 176
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -836,61 +836,61 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 178
+      lineNumber: 177
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-panel",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 180
+      lineNumber: 179
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-heading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 181
+      lineNumber: 180
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 182
+      lineNumber: 181
     },
     __self: this
   }, "March 2011"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "subheading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 183
+      lineNumber: 182
     },
     __self: this
   }, "An Agency is Born")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 185
+      lineNumber: 184
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 186
+      lineNumber: 185
     },
     __self: this
   }, "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 190
+      lineNumber: 189
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-image",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 191
+      lineNumber: 190
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -899,62 +899,62 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 192
+      lineNumber: 191
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-panel",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 194
+      lineNumber: 193
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-heading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 195
+      lineNumber: 194
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 196
+      lineNumber: 195
     },
     __self: this
   }, "December 2012"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "subheading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 197
+      lineNumber: 196
     },
     __self: this
   }, "Transition to Full Service")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 199
+      lineNumber: 198
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 200
+      lineNumber: 199
     },
     __self: this
   }, "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "timeline-inverted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 204
+      lineNumber: 203
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-image",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 205
+      lineNumber: 204
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -963,80 +963,80 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 206
+      lineNumber: 205
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-panel",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 208
+      lineNumber: 207
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-heading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 209
+      lineNumber: 208
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 210
+      lineNumber: 209
     },
     __self: this
   }, "July 2014"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "subheading",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 211
+      lineNumber: 210
     },
     __self: this
   }, "Phase Two Expansion")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 213
+      lineNumber: 212
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 214
+      lineNumber: 213
     },
     __self: this
   }, "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "timeline-inverted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 218
+      lineNumber: 217
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "timeline-image",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 219
+      lineNumber: 218
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 220
+      lineNumber: 219
     },
     __self: this
   }, "Be Part", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 221
+      lineNumber: 220
     },
     __self: this
   }), "Of Our", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 222
+      lineNumber: 221
     },
     __self: this
   }), "Story!")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
@@ -1044,63 +1044,63 @@ var Index = function Index() {
     id: "team",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 231
+      lineNumber: 230
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 232
+      lineNumber: 231
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 233
+      lineNumber: 232
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-12 text-center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 234
+      lineNumber: 233
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "section-heading text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 235
+      lineNumber: 234
     },
     __self: this
   }, "Our Amazing Team"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "section-subheading text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 236
+      lineNumber: 235
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 239
+      lineNumber: 238
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-sm-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 240
+      lineNumber: 239
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "team-member",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 241
+      lineNumber: 240
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1109,104 +1109,104 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 242
+      lineNumber: 241
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 243
+      lineNumber: 242
     },
     __self: this
   }, "Kay Garland"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 244
+      lineNumber: 243
     },
     __self: this
   }, "Lead Designer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline social-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 245
+      lineNumber: 244
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 246
+      lineNumber: 245
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 247
+      lineNumber: 246
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-twitter",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 248
+      lineNumber: 247
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 251
+      lineNumber: 250
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 252
+      lineNumber: 251
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-facebook-f",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 253
+      lineNumber: 252
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 256
+      lineNumber: 255
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 257
+      lineNumber: 256
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-linkedin-in",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 258
+      lineNumber: 257
     },
     __self: this
   })))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-sm-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 264
+      lineNumber: 263
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "team-member",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 265
+      lineNumber: 264
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1215,104 +1215,104 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 266
+      lineNumber: 265
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 267
+      lineNumber: 266
     },
     __self: this
   }, "Larry Parker"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 268
+      lineNumber: 267
     },
     __self: this
   }, "Lead Marketer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline social-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 269
+      lineNumber: 268
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 270
+      lineNumber: 269
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 271
+      lineNumber: 270
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-twitter",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 272
+      lineNumber: 271
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 275
+      lineNumber: 274
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 276
+      lineNumber: 275
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-facebook-f",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 277
+      lineNumber: 276
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 280
+      lineNumber: 279
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 281
+      lineNumber: 280
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-linkedin-in",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 282
+      lineNumber: 281
     },
     __self: this
   })))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-sm-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 288
+      lineNumber: 287
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "team-member",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 289
+      lineNumber: 288
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1321,146 +1321,146 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 290
+      lineNumber: 289
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 291
+      lineNumber: 290
     },
     __self: this
   }, "Diana Pertersen"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 292
+      lineNumber: 291
     },
     __self: this
   }, "Lead Developer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline social-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 293
+      lineNumber: 292
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 294
+      lineNumber: 293
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 295
+      lineNumber: 294
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-twitter",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 296
+      lineNumber: 295
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 299
+      lineNumber: 298
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 300
+      lineNumber: 299
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-facebook-f",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 301
+      lineNumber: 300
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 304
+      lineNumber: 303
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 305
+      lineNumber: 304
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-linkedin-in",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 306
+      lineNumber: 305
     },
     __self: this
   }))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 313
+      lineNumber: 312
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-8 mx-auto text-center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 314
+      lineNumber: 313
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "large text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 315
+      lineNumber: 314
     },
     __self: this
   }, "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     className: "py-5",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 321
+      lineNumber: 320
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 322
+      lineNumber: 321
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 323
+      lineNumber: 322
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-3 col-sm-6",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 324
+      lineNumber: 323
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 325
+      lineNumber: 324
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1469,21 +1469,21 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 326
+      lineNumber: 325
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-3 col-sm-6",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 329
+      lineNumber: 328
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 330
+      lineNumber: 329
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1492,21 +1492,21 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 331
+      lineNumber: 330
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-3 col-sm-6",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 334
+      lineNumber: 333
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 335
+      lineNumber: 334
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1515,21 +1515,21 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 336
+      lineNumber: 335
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-3 col-sm-6",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 339
+      lineNumber: 338
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 340
+      lineNumber: 339
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1538,93 +1538,93 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 341
+      lineNumber: 340
     },
     __self: this
   })))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "contact",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 349
+      lineNumber: 348
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 350
+      lineNumber: 349
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 351
+      lineNumber: 350
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-12 text-center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 352
+      lineNumber: 351
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "section-heading text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 353
+      lineNumber: 352
     },
     __self: this
   }, "Contact Us"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "section-subheading text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 354
+      lineNumber: 353
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 357
+      lineNumber: 356
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-12",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 358
+      lineNumber: 357
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("form", {
     id: "contactForm",
     name: "sentMessage",
-    novalidate: "novalidate",
+    noValidate: "novalidate",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 359
+      lineNumber: 358
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 360
+      lineNumber: 359
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-6",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 361
+      lineNumber: 360
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "form-group",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 362
+      lineNumber: 361
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
@@ -1636,21 +1636,21 @@ var Index = function Index() {
     "data-validation-required-message": "Please enter your name.",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 363
+      lineNumber: 362
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "help-block text-danger",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 364
+      lineNumber: 363
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "form-group",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 366
+      lineNumber: 365
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
@@ -1662,21 +1662,21 @@ var Index = function Index() {
     "data-validation-required-message": "Please enter your email address.",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 367
+      lineNumber: 366
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "help-block text-danger",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 368
+      lineNumber: 367
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "form-group",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 370
+      lineNumber: 369
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
@@ -1688,28 +1688,28 @@ var Index = function Index() {
     "data-validation-required-message": "Please enter your phone number.",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 371
+      lineNumber: 370
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "help-block text-danger",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 372
+      lineNumber: 371
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-6",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 375
+      lineNumber: 374
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "form-group",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 376
+      lineNumber: 375
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("textarea", {
@@ -1720,35 +1720,35 @@ var Index = function Index() {
     "data-validation-required-message": "Please enter a message.",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 377
+      lineNumber: 376
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "help-block text-danger",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 378
+      lineNumber: 377
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "clearfix",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 381
+      lineNumber: 380
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-12 text-center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 382
+      lineNumber: 381
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "success",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 383
+      lineNumber: 382
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
@@ -1757,185 +1757,185 @@ var Index = function Index() {
     type: "submit",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 384
+      lineNumber: 383
     },
     __self: this
   }, "Send Message")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("footer", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 393
+      lineNumber: 392
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 394
+      lineNumber: 393
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 395
+      lineNumber: 394
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 396
+      lineNumber: 395
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "copyright",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 397
+      lineNumber: 396
     },
     __self: this
   }, "Copyright \xA9 Your Website 2018")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 399
+      lineNumber: 398
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline social-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 400
+      lineNumber: 399
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 401
+      lineNumber: 400
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 402
+      lineNumber: 401
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-twitter",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 403
+      lineNumber: 402
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 406
+      lineNumber: 405
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 407
+      lineNumber: 406
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-facebook-f",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 408
+      lineNumber: 407
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 411
+      lineNumber: 410
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 412
+      lineNumber: 411
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fab fa-linkedin-in",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 413
+      lineNumber: 412
     },
     __self: this
   }))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-md-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 418
+      lineNumber: 417
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline quicklinks",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 419
+      lineNumber: 418
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 420
+      lineNumber: 419
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 421
+      lineNumber: 420
     },
     __self: this
   }, "Privacy Policy")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     className: "list-inline-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 423
+      lineNumber: 422
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 424
+      lineNumber: 423
     },
     __self: this
   }, "Terms of Use"))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal1",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 432
+      lineNumber: 431
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-dialog",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 433
+      lineNumber: 432
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 434
+      lineNumber: 433
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -1943,63 +1943,63 @@ var Index = function Index() {
     "data-dismiss": "modal",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 435
+      lineNumber: 434
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "lr",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 436
+      lineNumber: 435
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "rl",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 437
+      lineNumber: 436
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 440
+      lineNumber: 439
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 441
+      lineNumber: 440
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-8 mx-auto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 442
+      lineNumber: 441
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 443
+      lineNumber: 442
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 444
+      lineNumber: 443
     },
     __self: this
   }, "Project Name"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "item-intro text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 445
+      lineNumber: 444
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -2008,38 +2008,38 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 446
+      lineNumber: 445
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 447
+      lineNumber: 446
     },
     __self: this
   }, "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 448
+      lineNumber: 447
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 449
+      lineNumber: 448
     },
     __self: this
   }, "Date: January 2017"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 450
+      lineNumber: 449
     },
     __self: this
   }, "Client: Threads"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 451
+      lineNumber: 450
     },
     __self: this
   }, "Category: Illustration")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
@@ -2048,39 +2048,39 @@ var Index = function Index() {
     type: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 453
+      lineNumber: 452
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-times",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 454
+      lineNumber: 453
     },
     __self: this
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal2",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 464
+      lineNumber: 463
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-dialog",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 465
+      lineNumber: 464
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 466
+      lineNumber: 465
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -2088,63 +2088,63 @@ var Index = function Index() {
     "data-dismiss": "modal",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 467
+      lineNumber: 466
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "lr",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 468
+      lineNumber: 467
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "rl",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 469
+      lineNumber: 468
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 472
+      lineNumber: 471
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 473
+      lineNumber: 472
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-8 mx-auto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 474
+      lineNumber: 473
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 475
+      lineNumber: 474
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 476
+      lineNumber: 475
     },
     __self: this
   }, "Project Name"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "item-intro text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 477
+      lineNumber: 476
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -2153,38 +2153,38 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 478
+      lineNumber: 477
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 479
+      lineNumber: 478
     },
     __self: this
   }, "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 480
+      lineNumber: 479
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 481
+      lineNumber: 480
     },
     __self: this
   }, "Date: January 2017"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 482
+      lineNumber: 481
     },
     __self: this
   }, "Client: Explore"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 483
+      lineNumber: 482
     },
     __self: this
   }, "Category: Graphic Design")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
@@ -2193,39 +2193,39 @@ var Index = function Index() {
     type: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 485
+      lineNumber: 484
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-times",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 486
+      lineNumber: 485
     },
     __self: this
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal3",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 496
+      lineNumber: 495
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-dialog",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 497
+      lineNumber: 496
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 498
+      lineNumber: 497
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -2233,63 +2233,63 @@ var Index = function Index() {
     "data-dismiss": "modal",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 499
+      lineNumber: 498
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "lr",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 500
+      lineNumber: 499
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "rl",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 501
+      lineNumber: 500
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 504
+      lineNumber: 503
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 505
+      lineNumber: 504
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-8 mx-auto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 506
+      lineNumber: 505
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 507
+      lineNumber: 506
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 508
+      lineNumber: 507
     },
     __self: this
   }, "Project Name"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "item-intro text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 509
+      lineNumber: 508
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -2298,38 +2298,38 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 510
+      lineNumber: 509
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 511
+      lineNumber: 510
     },
     __self: this
   }, "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 512
+      lineNumber: 511
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 513
+      lineNumber: 512
     },
     __self: this
   }, "Date: January 2017"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 514
+      lineNumber: 513
     },
     __self: this
   }, "Client: Finish"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 515
+      lineNumber: 514
     },
     __self: this
   }, "Category: Identity")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
@@ -2338,39 +2338,39 @@ var Index = function Index() {
     type: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 517
+      lineNumber: 516
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-times",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 518
+      lineNumber: 517
     },
     __self: this
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal4",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 529
+      lineNumber: 528
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-dialog",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 530
+      lineNumber: 529
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 531
+      lineNumber: 530
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -2378,63 +2378,63 @@ var Index = function Index() {
     "data-dismiss": "modal",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 532
+      lineNumber: 531
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "lr",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 533
+      lineNumber: 532
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "rl",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 534
+      lineNumber: 533
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 537
+      lineNumber: 536
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 538
+      lineNumber: 537
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-8 mx-auto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 539
+      lineNumber: 538
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 540
+      lineNumber: 539
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 541
+      lineNumber: 540
     },
     __self: this
   }, "Project Name"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "item-intro text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 542
+      lineNumber: 541
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -2443,38 +2443,38 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 543
+      lineNumber: 542
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 544
+      lineNumber: 543
     },
     __self: this
   }, "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 545
+      lineNumber: 544
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 546
+      lineNumber: 545
     },
     __self: this
   }, "Date: January 2017"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 547
+      lineNumber: 546
     },
     __self: this
   }, "Client: Lines"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 548
+      lineNumber: 547
     },
     __self: this
   }, "Category: Branding")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
@@ -2483,39 +2483,39 @@ var Index = function Index() {
     type: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 550
+      lineNumber: 549
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-times",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 551
+      lineNumber: 550
     },
     __self: this
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal5",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 562
+      lineNumber: 561
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-dialog",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 563
+      lineNumber: 562
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 564
+      lineNumber: 563
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -2523,63 +2523,63 @@ var Index = function Index() {
     "data-dismiss": "modal",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 565
+      lineNumber: 564
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "lr",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 566
+      lineNumber: 565
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "rl",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 567
+      lineNumber: 566
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 570
+      lineNumber: 569
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 571
+      lineNumber: 570
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-8 mx-auto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 572
+      lineNumber: 571
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 573
+      lineNumber: 572
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 574
+      lineNumber: 573
     },
     __self: this
   }, "Project Name"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "item-intro text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 575
+      lineNumber: 574
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -2588,38 +2588,38 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 576
+      lineNumber: 575
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 577
+      lineNumber: 576
     },
     __self: this
   }, "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 578
+      lineNumber: 577
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 579
+      lineNumber: 578
     },
     __self: this
   }, "Date: January 2017"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 580
+      lineNumber: 579
     },
     __self: this
   }, "Client: Southwest"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 581
+      lineNumber: 580
     },
     __self: this
   }, "Category: Website Design")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
@@ -2628,39 +2628,39 @@ var Index = function Index() {
     type: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 583
+      lineNumber: 582
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-times",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 584
+      lineNumber: 583
     },
     __self: this
   }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-modal modal fade",
     id: "portfolioModal6",
-    tabindex: "-1",
+    tabIndex: "-1",
     role: "dialog",
     "aria-hidden": "true",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 594
+      lineNumber: 593
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-dialog",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 595
+      lineNumber: 594
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 596
+      lineNumber: 595
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -2668,63 +2668,63 @@ var Index = function Index() {
     "data-dismiss": "modal",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 597
+      lineNumber: 596
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "lr",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 598
+      lineNumber: 597
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "rl",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 599
+      lineNumber: 598
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 602
+      lineNumber: 601
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 603
+      lineNumber: 602
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "col-lg-8 mx-auto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 604
+      lineNumber: 603
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "modal-body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 605
+      lineNumber: 604
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "text-uppercase",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 607
+      lineNumber: 606
     },
     __self: this
   }, "Project Name"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "item-intro text-muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 608
+      lineNumber: 607
     },
     __self: this
   }, "Lorem ipsum dolor sit amet consectetur."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -2733,38 +2733,38 @@ var Index = function Index() {
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 609
+      lineNumber: 608
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 610
+      lineNumber: 609
     },
     __self: this
   }, "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "list-inline",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 611
+      lineNumber: 610
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 612
+      lineNumber: 611
     },
     __self: this
   }, "Date: January 2017"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 613
+      lineNumber: 612
     },
     __self: this
   }, "Client: Window"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 614
+      lineNumber: 613
     },
     __self: this
   }, "Category: Photography")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
@@ -2773,59 +2773,17 @@ var Index = function Index() {
     type: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 616
+      lineNumber: 615
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
     className: "fas fa-times",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 617
+      lineNumber: 616
     },
     __self: this
-  }), "Close Project")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "vendor/jquery/jquery.min.js",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 627
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "vendor/bootstrap/js/bootstrap.bundle.min.js",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 628
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "vendor/jquery-easing/jquery.easing.min.js",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 630
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "js/jqBootstrapValidation.js",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 632
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "js/contact_me.js",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 633
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("script", {
-    src: "js/agency.min.js",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 635
-    },
-    __self: this
-  }));
+  }), "Close Project")))))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
@@ -2852,4 +2810,4 @@ var Index = function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.06e27467fc195dc457fa.hot-update.js.map
+//# sourceMappingURL=index.js.e1ef208ad1ef1b572d60.hot-update.js.map
